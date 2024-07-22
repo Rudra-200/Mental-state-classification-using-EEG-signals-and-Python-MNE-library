@@ -76,7 +76,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## License
 
-This project is licensed under the AGLP-3.0 License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the AGLP-3.0 License. See the [LICENSE](LICENSE.txt) file for details.
 
 ## Acknowledgements
 
